@@ -6,8 +6,8 @@ You need kali linux or parrot os
 
 
 install : git clone https://github.com/astenvasten/cupp-.git
-Quick start
-$ python3 cupp.py -h
+
+Quick start : python3 cupp.py -h
 
 
 Options
