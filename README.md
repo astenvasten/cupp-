@@ -1,5 +1,5 @@
 # cupp-
-common user password profiles
+common user passwords profiler
 Requirements
 You need Python 3 to run CUPP.
 
